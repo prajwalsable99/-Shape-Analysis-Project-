@@ -8,6 +8,19 @@ This project focuses on analyzing and predicting geometric shapes using their fe
 - **Shape Prediction**: Machine learning models for predicting shape categories.
 - **Visualization**: Tools for analyzing shapes visually using their features.
 
+
+## Usage
+
+### Video Demonstration
+Watch a demonstration of the project output:
+
+**click on image to see video**
+
+
+
+[![Shape Analysis Video](https://github.com/user-attachments/assets/a565fb26-8ad1-4b77-80d4-0f60a9e3f431)](https://github.com/prajwalsable99/-Shape-Analysis-Project-/blob/main/output.mp4)
+
+
 ## Directory Structure
 ```
 SHAPE-DETECTION
@@ -59,12 +72,6 @@ To run the project, ensure you have the following:
   pip install numpy pandas matplotlib opencv-python scikit-learn
   ```
 
-## Usage
-
-### Video Demonstration
-Watch a demonstration of the project output:
-
-<!-- [![Shape Analysis Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID) -->
 
 
 
